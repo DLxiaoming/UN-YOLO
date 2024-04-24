@@ -1,0 +1,11 @@
+# dataset path
+
+train:UN-YOLO\ultralytics-main\NEU-DET\images\train
+val:UN-YOLO\ultralytics-main\NEU-DET\images\val
+
+
+# number of classes
+nc: 6
+
+# class names
+names: ['crazing', 'patches', 'inclusion', 'pitted_surface', 'rolled-in_scale', 'scratches']
