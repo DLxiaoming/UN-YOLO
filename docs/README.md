@@ -1,4 +1,4 @@
-# UN-YOLO-A-Unified-Algorithm-Framework-for-Industrial-Object-Detection 
+# UN-YOLO: A Unified Algorithm Framework for Industrial Object Detection 
 ## Operation mode:
 
 The `train.py` file is used to select the `yaml` file for training, pre-training weights, data set paths and other superparameters.
