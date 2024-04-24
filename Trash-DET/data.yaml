@@ -1,0 +1,10 @@
+# dataset path
+
+train: D:\BaiduNetdiskDownload\ultralytics-20240222\ultralytics-main\Trash-DET\images\train
+val: D:\BaiduNetdiskDownload\ultralytics-20240222\ultralytics-main\Trash-DET\images\val
+test: D:\BaiduNetdiskDownload\ultralytics-20240222\ultralytics-main\Trash-DET\images\test
+# number of classes
+nc: 3
+
+# class names
+names: ['plastic', 'bio', 'rov']
