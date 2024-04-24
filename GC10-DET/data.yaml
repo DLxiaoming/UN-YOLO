@@ -1,0 +1,11 @@
+# GC10-DET path
+
+train: UN-YOLO\ultralytics-main\GC10-DET\images\train
+val: UN-YOLO\ultralytics-main\GC10-DET\images\val
+
+
+# number of classes
+nc: 10
+
+# class names
+names: ['crescent_gap','crease', 'silk_spot', 'water_spot', 'welding_line','inclusion','oil_spot','rolled_pit','punching_hole','waist folding']
