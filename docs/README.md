@@ -15,6 +15,7 @@ All data sets are divided and provided in `UN-YOLO \ XXX-DET'.
 * yaml location:`UN-YOLO\ultralytics\cfg\models\v8`
 
 * module location `UN-YOLO\ultralytics\nn\extra_modules\block`
+# UN-YOLO: A Unified Algorithm Framework for Industrial Object Detection 
 ## 运行方式：
 
 `train.py`文件中选择训练的`yaml`文件、预训练权重、数据集路径以及其他超参数
