@@ -1,0 +1,10 @@
+# PCB path
+
+train: UN-YOLO\ultralytics-main\POT-DET\images\train
+val: UN-YOLO\ultralytics-main\POT-DET\images\val
+
+# number of classes
+nc: 1
+
+# class names
+names: ['pothole']
