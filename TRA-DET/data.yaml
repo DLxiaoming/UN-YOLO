@@ -1,0 +1,11 @@
+# PCB path
+
+train: UN-YOLO\ultralytics-main\TRA-DET\images\train
+val: UN-YOLO\ultralytics-main\TRA-DET\images\val
+test: UN-YOLO\ultralytics-main\TRA-DET\images\test
+
+# number of classes
+nc: 1
+
+# class names
+names: ['car']
