@@ -1,0 +1,11 @@
+# PCB path
+
+train: UN-YOLO\ultralytics-main\PCB-DET\images\train
+val: UN-YOLO\ultralytics-main\PCB-DET\images\val
+
+
+# number of classes
+nc: 6
+
+# class names
+names: ['missing_hole', 'mouse_bite', 'open_circuit', 'short', 'spurious_copper', 'spur']
